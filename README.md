@@ -2,7 +2,7 @@ Frontier is the most recent game I have developed and showcases some of my best 
 
 This includes many intermediate and advanced level programming techniques such as:  
 Coroutines (PlayerController.cs)  
-Inheritance   
+Inheritance (ExtraLifePickup.cs)    
 Events  (SoundManager.cs)   
 Callback functions  (PlayerController.cs, PlayGamesPlatformManager.cs)    
 Interfaces  (AsteroidController.cs)   
